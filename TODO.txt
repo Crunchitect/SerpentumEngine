@@ -1,0 +1,8 @@
+1. Add ctrl c and ctrl v
+2. add test the map func
+3. add ctrl z #Nope
+4. add ctrl y (redo) #Never
+5. make it user-friendly #OnlyIfYouLetItBe
+6. reduce cpu usage # never gonna give you up
+7. add some idoit button YES!!!!!(done)
+8. entity scale editor #TheFrick
